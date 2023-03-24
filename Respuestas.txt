@@ -1,0 +1,4 @@
+#¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+No se puede ver el archivo tp2_1_2.c porque no se encuentra en la rama principal
+#Combinamosmaster con Opcion_2,Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+Las lineas que representan las ramas se unen porque acabamos de fusionar la rama principal con Opcion_2
